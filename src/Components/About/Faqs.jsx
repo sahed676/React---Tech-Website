@@ -12,7 +12,7 @@ const Faqs = () => {
           style={{
             textAlign: "center",
             fontSize: "25px",
-            marginBottom: "5rem",
+            marginBottom: "3rem",
             marginTop: "20px",
           }}
         >

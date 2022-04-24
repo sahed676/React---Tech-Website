@@ -32,7 +32,8 @@
 /* Css for responsive of small devices */
 @media screen and (max-width: 768px) {
   .faqs {
-    margin-top: 9rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
   }
   .content {
     display: grid;

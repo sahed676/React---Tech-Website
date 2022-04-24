@@ -1,10 +1,11 @@
 import React from "react";
 import { Card, NavLink } from "react-bootstrap";
+import "./Services.css";
 
 const CardS = ({ imgsrc, title }) => {
   return (
     <>
-      <div className="col-md-4 col-lg-4 col-sm-10 mx-auto">
+      <div className="Service__container col-md-4 col-lg-4 col-sm-10 mx-auto">
         <Card>
           <Card.Img variant="top" src={imgsrc} alt={imgsrc} />
           <Card.Body>
