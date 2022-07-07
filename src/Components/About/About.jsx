@@ -3,6 +3,7 @@ import Combined from "../Combined/Combined";
 import About__Pic from "../../Assets/about.svg";
 import "./About.css";
 import Faqs from "./Faqs";
+import pic2 from "../../Assets/software.jpg"
 
 const About = () => {
   return (
@@ -13,6 +14,8 @@ const About = () => {
         visit="/contact"
         btnName="Contact Now"
       />
+
+   
 
       <Faqs />
     </>

@@ -30,7 +30,5 @@
 
 /* Css for responsive of mediaum devices */
 @media screen and (max-width: 991px) {
-  .title__text {
-    font-size: 0.9rem !important;
-  }
+  
 }
